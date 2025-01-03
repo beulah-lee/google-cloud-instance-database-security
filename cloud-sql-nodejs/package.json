@@ -1,0 +1,19 @@
+{
+  "name": "cloud-sql-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/logging": "^11.2.0",
+    "@google-cloud/storage": "^7.14.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0"
+  }
+}

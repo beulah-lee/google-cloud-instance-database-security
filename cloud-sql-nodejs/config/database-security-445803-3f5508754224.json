@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "database-security-445803",
+  "private_key_id": "3f550875422412caa35b4e59ead4b35653828703",
+  "private_key": "-----BEGIN PRIVATE KEY-----\omitted-per-compliance\n-----END PRIVATE KEY-----\n",
+  "client_email": "nodejs-service-account@database-security-445803.iam.gserviceaccount.com",
+  "client_id": "108854881572773127417",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nodejs-service-account%40database-security-445803.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
